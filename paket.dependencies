@@ -1,0 +1,13 @@
+source https://www.nuget.org/api/v2
+
+nuget FSharp.Core
+nuget Fable.Core
+nuget Fable.React
+nuget Fable.Elmish
+nuget Fable.Elmish.React
+nuget Fable.Elmish.Browser
+nuget Fable.Elmish.Debugger
+nuget FSharp.NET.Sdk
+nuget Thoth.Json
+
+clitool dotnet-fable

@@ -1,0 +1,6 @@
+node_modules/
+packages
+paket-files
+
+WebUI.Fable/bin/
+WebUI.Fable/obj/
